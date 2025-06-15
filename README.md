@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **jaydoshi33/jaydoshi33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 👋 Hi there, I'm Jay Doshi!
+
+🎓 Master's in Computer Science @ Syracuse University (Graduating May 2026)  
+🏢 Current: Research Assistant @iSchool, Syracuse University (USA) | Software Developer, iConsult Collaborative (Non profit)  
+💻 Ex-Full Stack Developer @ Cognizant | 2 years experience in building scalable web apps  
+🔍 Actively seeking 2025 internships | Open to AI + Product, Web, or DevOps roles  
+🌱 Currently learning: AI Engineering • C++ • Tensorflow • ML Deployment • Kubernetes  
+📷 Passionate about: Tech, Leadership, and Personal Fitness
+
+---
+### 🚀 About Me
+
+- 💡 I thrive at the intersection of software development, AI, and user-centric product design.
+- 🛠️ Deeply proficient in **Java, Python and JavaScript**. My background also includes extensive expertise in *DevOps*, *cloud technologies*, and *database management*.
+- 🤖 I’m transitioning into **AI Software Engineering**, with a keen interest in smart systems, conversational agents, and real-world applications of large language models (**LLMs**).
+- 🧑‍🏫 I’ve mentored interns, led student teams, and managed events with confidence and creativity.
+
+### 🛠️ Technologies That I Know
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,css,html,docker,postgres,mysql,mongodb,hibernate,github,js,linux,nextjs,nodejs,spring,postman,react,ts,vscode,aws,kubernetes,&amp;perline=11" alt="Java, Python, TypeScript, JavaScript, C++" />
+</p>
+
+### 📫 Let’s Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jay-doshi-42b90518b/)  
+[![Email](https://img.shields.io/badge/Email-orange?logo=gmail&style=for-the-badge)](mailto:jdoshi01@syr.edu)  
+
+---
+
