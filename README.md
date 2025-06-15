@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 🏢 Current: Research Assistant @iSchool, Syracuse University (USA) | Software Developer, iConsult Collaborative (Non profit)  
 💻 Ex-Full Stack Developer @ Cognizant | 2 years experience in building scalable web apps  
 🔍 Actively seeking 2025 internships | Open to AI + Product, Web, or DevOps roles  
-🌱 Currently learning: AI Engineering • C++ • Tensorflow • ML Deployment • Kubernetes  
+🌱 Currently learning: **AI Engineering**, **Tensorflow**, **ML Deployment** and **Kubernetes**  
 📷 Passionate about: Tech, Leadership, and Personal Fitness
 
 ---
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ### 🛠️ Technologies That I Know
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,css,html,docker,postgres,mysql,mongodb,hibernate,github,js,linux,nextjs,nodejs,spring,postman,react,ts,vscode,aws,kubernetes,&amp;perline=11" alt="Java, Python, TypeScript, JavaScript, C++" />
+  <img src="https://skillicons.dev/icons?i=java,python,css,html,docker,postgres,mysql,mongodb,hibernate,github,js,linux,nextjs,nodejs,spring,postman,react,ts,vscode,aws,kubernetes,&amp;perline=11" alt="Java, Python, TypeScript, JavaScript, C++" /> 
 </p>
 
 ### 📫 Let’s Connect!
@@ -42,3 +42,11 @@ Here are some ideas to get you started:
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaydoshi33&show_icons=true&theme=github_dark&hide_border=true" width="47%" alt="Jay's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydoshi33&theme=github-dark&hide_border=true" width="47%" alt="Jay's GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydoshi33&layout=compact&theme=github_dark&hide_border=true" width="47%" alt="Top Languages" />
+</p>
